@@ -29,13 +29,9 @@ This is a Raspberry Pi–based self-driving delivery robot that can:
 | Buzzer (Active)  | 5V   | GND  | GPIO12    |
 | Pi Camera        | CSI Port |
 
-## Setting up Environment in Rpie Console
-mkdir TrainProject && cd TrainProject
-nano trainObjDetection.py
- python3 -m venv myenv
-source myenv/bin/activate
-python3 trainObjDetection.py
 
+<img width="191" alt="image" src="https://github.com/user-attachments/assets/08f797f5-f265-4fcf-b8a5-d5059b70a09f" />
+![Screenshot 2025-04-04 144648](https://github.com/user-attachments/assets/d897dad9-4963-41f6-8de9-7f2a1c63e823)
 ## 💻 Installation
 
 ```bash
@@ -45,5 +41,4 @@ python3 -m venv robot-env
 source robot-env/bin/activate
 pip install -r requirements.txt
 
-<img width="191" alt="image" src="https://github.com/user-attachments/assets/08f797f5-f265-4fcf-b8a5-d5059b70a09f" />
-![Screenshot 2025-04-04 144648](https://github.com/user-attachments/assets/d897dad9-4963-41f6-8de9-7f2a1c63e823)
+
