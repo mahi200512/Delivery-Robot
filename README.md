@@ -31,7 +31,7 @@ This is a Raspberry Pi–based self-driving delivery robot that can:
 
 
 <img width="191" alt="image" src="https://github.com/user-attachments/assets/08f797f5-f265-4fcf-b8a5-d5059b70a09f" />
-![Screenshot 2025-04-04 144648](https://github.com/user-attachments/assets/d897dad9-4963-41f6-8de9-7f2a1c63e823)
+[Screenshot 2025-04-04 144648](https://github.com/user-attachments/assets/d897dad9-4963-41f6-8de9-7f2a1c63e823)
 ## 💻 Installation
 
 ```bash
