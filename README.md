@@ -26,7 +26,7 @@ This is a Raspberry Pi–based self-driving delivery robot that can:
 | Ultrasonic Echo  | 5V   | GND  | GPIO24     |
 | Servo Motor      | 5V   | GND  | GPIO18     |
 | GY-521 (SDA/SCL) | 3.3V | GND  | SDA: GPIO2, SCL: GPIO3 |
-| Buzzer (Active)  | 5V   | GND  | GPIO21     |
+| Buzzer (Active)  | 5V   | GND  | GPIO12    |
 | Pi Camera        | CSI Port |
 
 ## 💻 Installation
